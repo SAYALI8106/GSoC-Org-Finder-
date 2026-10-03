@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-09T13:08:02.489Z",
-  "totalIssues": 50,
-  "totalOrgs": 20,
-  "totalLabels": 68,
+  "generatedAt": "2026-10-03T16:01:08.846Z",
+  "totalIssues": 56,
+  "totalOrgs": 22,
+  "totalLabels": 70,
   "topOrganizations": [
     "AFLplusplus",
     "AnkiDroid",
@@ -12,7 +12,7 @@
     "cBioPortal for Cancer Genomics",
     "checkstyle",
     "CircuitVerse.org",
-    "Dart",
-    "DBpedia"
+    "DBpedia",
+    "OpenAstronomy"
   ]
 }
